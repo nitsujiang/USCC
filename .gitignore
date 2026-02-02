@@ -1,0 +1,28 @@
+# Build artifacts
+*.o
+*.a
+*.d
+*.bc
+
+# macOS resource fork files
+._*
+.DS_Store
+._.DS_Store
+
+# Binary
+bin/uscc
+
+# IDE files
+.vscode/
+*.xcodeproj/xcuserdata/
+
+# Test output files
+tests/output.txt
+tests/debug_*.usc
+
+# Temporary files
+*.tmp
+*~
+
+# Reports (optional - uncomment if you want to exclude)
+# report/

@@ -1,0 +1,8 @@
+Program:
+---Function: int main
+------CompoundStmt:
+---------ReturnStmt:
+------------ConstantExpr: 0
+Symbols:
+function main
+function printf
