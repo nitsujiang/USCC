@@ -2,10 +2,6 @@
 
 A compiler for the USC (University Simple C) language, built using the LLVM framework as its code generation backend.
 
-## Author
-
-**Justin Jiang** - justin.jiang@stonybrook.edu
-
 Developed as part of CSE 504: Compiler Design at Stony Brook University.
 
 Original framework by Sanjay Madhav (madhav@usc.edu).
@@ -79,3 +75,4 @@ uscc/
 ## License
 
 BSD License - See LICENSE.TXT for details.
+
